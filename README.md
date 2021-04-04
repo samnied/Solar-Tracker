@@ -23,6 +23,7 @@ Take a look at [BBC Micro:bit ](#bbc-microbit) to operate the SolarTracker in re
 * The PCBs are manufacutred by [JLCPCB](https://jlcpcb.com/)
 * All the wooden parts are made of laser cutted 3mm MDF
 * The SolarTracker supports OTA(over the air updates), however it is still in experimental state at the moment
+* The code running on the ESP32 is closed source, this may change in the future
 
 <!-- BBC MICROBIT -->
 ## BBC Micro:bit
