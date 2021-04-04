@@ -1,9 +1,10 @@
 # Solar-Tracker
 <img src="https://github.com/samnied/Solar-Tracker/blob/main/SolarTracker_1.jpg" width="300"/>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The SolarTracker was designed for
-It consists of a...
+The SolarTracker was designed for the [Smartfeld Photonics Workshops](https://www.smartfeld.ch/photonik-und-daten/).
+Check out [Smartfeld] for detailed information about the workshops.
 
 <!-- GETTING STARTED -->
 ## Getting Started
