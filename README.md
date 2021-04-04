@@ -19,7 +19,7 @@ In remote mode one can control the SolarTracker over I2C to modify the servos an
 Take a look at [BBC Micro:bit ](#bbc-microbit) to operate the SolarTracker in remote mode with the BBC Micro:Bit.
 <!-- TECHNICAL DETAILS -->
 ## Technical Details
-* The SolarTracker consists of an [ESP32](https://www.espressif.com/en/products/socs/esp32) microcontroller using [LVGL](https://lvgl.io/) as graphics library.
+* The SolarTracker consists of an [ESP32](https://www.espressif.com/en/products/socs/esp32) microcontroller using [LVGL](https://lvgl.io/) as graphics library
 * The PCBs are manufacutred by [JLCPCB](https://jlcpcb.com/)
 * All the wooden parts are made of laser cutted 3mm MDF
 * The SolarTracker supports OTA(over the air updates), however it is still in experimental state at the moment
