@@ -1,5 +1,5 @@
 # Solar-Tracker
-![image](https://github.com/samnied/Solar-Tracker/blob/main/SolarTracker_1.jpg | width=100)
+<img src="https://github.com/samnied/Solar-Tracker/blob/main/SolarTracker_1.jpg" width="50">
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The SolarTracker was designed for
