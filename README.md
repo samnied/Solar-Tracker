@@ -27,5 +27,6 @@ Take a look at [BBC Micro:bit ](#bbc-microbit) to operate the SolarTracker in re
 <!-- BBC MICROBIT -->
 ## BBC Micro:bit
 To control the SolarTracker with BBC Micro:bit inlcude the [SolarTracker-Library](https://github.com/samnied/pxt-solarTracker) as makecode extension.
+
 <img src="https://github.com/samnied/Solar-Tracker/blob/main/MakeCodeExtension.gif" width="700"/>
 
