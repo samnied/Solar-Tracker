@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The SolarTracker was designed for the [Smartfeld Photonics Workshops](https://www.smartfeld.ch/photonik-und-daten/).
-Check out [Smartfeld] for detailed information about the workshops.
+Check out [Smartfeld](https://www.smartfeld.ch/smartes-konzept/) for detailed information about the workshops.
 
 <!-- GETTING STARTED -->
 ## Getting Started
